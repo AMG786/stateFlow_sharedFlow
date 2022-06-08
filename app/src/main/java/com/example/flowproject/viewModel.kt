@@ -42,6 +42,7 @@ class viewModel() : ViewModel() {
         }
 
         squareNumber(3)
+
     }
 
 
